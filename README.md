@@ -1,24 +1,8 @@
-# README
+# Password Chatbot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proof of concept for a chatbot password manager.
 
-Things you may want to cover:
+Uses Twilio for texting and LastPass to store and generate passwords.
 
-* Ruby version
+Plenty of security concerns, but the MVP works.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
